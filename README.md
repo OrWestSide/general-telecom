@@ -20,3 +20,9 @@ This repository is about telecom projects I have worked on and figured out. Spec
     
 7. "Angle Estimation"
    Estimation of angles of 5 sourses using MF, ZF, MUSIC and ESPIRIT filters.
+
+8. "PAM"
+   Simulation of 2-PAM and 4-PAM modulations.
+   
+9. "PSK8"
+   Simulations of 8-PSK modulation.
