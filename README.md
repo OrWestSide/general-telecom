@@ -14,3 +14,9 @@ This repository is about telecom projects I have worked on and figured out. Spec
 
 5. "MarkovHuffman"
    Huffman coding and decoding for a Markov chain.
+
+6. "CDMA"
+    Application of MF, MMSE, MVDR and ZF in a CDMA system of 31 users.
+    
+7. "Angle Estimation"
+   Estimation of angles of 5 sourses using MF, ZF, MUSIC and ESPIRIT filters.
