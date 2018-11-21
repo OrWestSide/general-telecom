@@ -11,3 +11,6 @@ This repository is about telecom projects I have worked on and figured out. Spec
    
 4. "MAC Protocol"
    Implementation of MAC protocol '1-persistent CSMA/CD with Binary Exponential Backoff'.
+
+5. "MarkovHuffman"
+   Huffman coding and decoding for a Markov chain.
